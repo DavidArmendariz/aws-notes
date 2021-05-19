@@ -2,5 +2,7 @@
 
 Start with:
 
-1. AWSHistory.md
-2. AWSRegions.md
+* Intro
+  * AWS History
+  * AWS Regions
+* IAM
