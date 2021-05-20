@@ -18,3 +18,5 @@ Start with:
   * Budgets
 * EC2
   * Introduction
+  * Instance Types
+  * Security Groups
