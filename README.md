@@ -22,3 +22,4 @@ Start with:
   * Security Groups
   * SSH
   * Launch Types
+  * IPs
