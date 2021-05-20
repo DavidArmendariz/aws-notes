@@ -21,4 +21,4 @@ Start with:
   * Instance Types
   * Security Groups
   * SSH
-  
+  * Launch Types
