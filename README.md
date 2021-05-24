@@ -24,3 +24,4 @@ Start with:
   * Launch Types
   * IPs
   * Spot Instances
+  * Placement Groups
