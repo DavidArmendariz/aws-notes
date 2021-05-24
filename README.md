@@ -28,3 +28,5 @@ Start with:
   * Elastic Network Interfaces (ENI)
   * Hibernate
   * Nitro
+* EC2 Instance Storage
+  * EBS Intro
