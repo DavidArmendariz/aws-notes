@@ -26,3 +26,4 @@ Start with:
   * Spot Instances
   * Placement Groups
   * Elastic Network Interfaces (ENI)
+  * Hibernate
