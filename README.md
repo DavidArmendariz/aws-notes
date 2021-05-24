@@ -25,3 +25,4 @@ Start with:
   * IPs
   * Spot Instances
   * Placement Groups
+  * Elastic Network Interfaces (ENI)
