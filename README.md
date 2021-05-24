@@ -23,3 +23,4 @@ Start with:
   * SSH
   * Launch Types
   * IPs
+  * Spot Instances
