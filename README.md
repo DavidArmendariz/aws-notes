@@ -27,3 +27,4 @@ Start with:
   * Placement Groups
   * Elastic Network Interfaces (ENI)
   * Hibernate
+  * Nitro
