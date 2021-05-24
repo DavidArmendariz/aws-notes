@@ -30,3 +30,4 @@ Start with:
   * Nitro
 * EC2 Instance Storage
   * EBS Intro
+  * Snapshots
