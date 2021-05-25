@@ -33,3 +33,4 @@ Start with:
   * Snapshots
   * AMI
   * Instance Store
+  * Volume types
