@@ -32,3 +32,4 @@ Start with:
   * EBS Intro
   * Snapshots
   * AMI
+  * Instance Store
