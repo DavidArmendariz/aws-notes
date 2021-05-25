@@ -34,3 +34,4 @@ Start with:
   * AMI
   * Instance Store
   * Volume types
+  * Multi-Attach
