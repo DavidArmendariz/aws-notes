@@ -36,3 +36,4 @@ Start with:
   * Volume types
   * Multi-Attach
   * Encryption
+  * RAID
