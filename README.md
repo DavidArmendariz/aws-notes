@@ -35,3 +35,4 @@ Start with:
   * Instance Store
   * Volume types
   * Multi-Attach
+  * Encryption
