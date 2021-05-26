@@ -1,8 +1,11 @@
 # Common terminology
 
 * IAM = Identity and Access Management
+* MFA = Multi Factor Authentication
+* EC2 = Elastic Cloud Compute
 * AMI = Amazon Machine Image
 * PEM = Privacy Enhanced Mail
+* EFS = Elastic Fily System
 * IOPS = I/O Operations Per Second
 * SSL = Secure Sockets Layer
 * TLS = Transport Layer Security

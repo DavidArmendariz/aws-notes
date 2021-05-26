@@ -48,3 +48,4 @@ Start with:
   * Cross Zone Balancing
   * SSL
   * Connection Draining
+  * ASG
