@@ -7,3 +7,7 @@
 * SSL = Secure Sockets Layer
 * TLS = Transport Layer Security
 * CA = Certificate Authorities
+* ALB = Application Load Balancer
+* NLB = Network Load Balancer
+* CLB = Classic Load Balancer
+* ASG = Auto Scaling Group

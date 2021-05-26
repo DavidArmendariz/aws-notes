@@ -47,3 +47,4 @@ Start with:
   * Stickiness
   * Cross Zone Balancing
   * SSL
+  * Connection Draining
