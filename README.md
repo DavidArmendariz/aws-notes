@@ -45,3 +45,4 @@ Start with:
   * Application Load Balancer
   * Network Load Balancer
   * Stickiness
+  * Cross Zone Balancing
