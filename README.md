@@ -44,3 +44,4 @@ Start with:
   * Classic Load Balancers
   * Application Load Balancer
   * Network Load Balancer
+  * Stickiness
