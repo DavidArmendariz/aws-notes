@@ -49,3 +49,4 @@ Start with:
   * SSL
   * Connection Draining
   * ASG
+  * Scaling Policies
