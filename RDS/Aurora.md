@@ -26,3 +26,46 @@
 ## Security
 
 * Similar to RDS because uses the same engine
+
+## Advanced concepts
+
+### Replicas - Auto Scaling
+
+### Custom Endpoints
+
+* Define a subset of Aurora instances as a Custom Endpoint
+* Example: run analytical queries on specific replicas
+* The reader endpoint is generally not used after defining custom endpoints
+
+### Serverless
+
+* Automated database instantiation and auto scaling based on actual usage
+* Good for infrequent, intermittent or unpredictable workloads
+* No capacity planning needed
+* Pay per second
+
+### Multi-Master
+
+* In case you want immediate failover for write node (HA)
+* Every node does read and write vs promoting a read replica as the new master
+
+### Global Aurora
+
+* Aurora Cross Region Read Replicas:
+  * Useful for disaster recovery
+  * Simple to put in place
+* Aurora Global Database (recommended):
+  * 1 primary region (read and write)
+  * Up to 5 secondary (read-only) regions, replication lag is less than 1 second
+  * Up to 16 read replicas per secondary region
+  * Helps for decreasing latency
+  * Promoting to another region (for disaster recovery) has an RTO of < 1 minute
+
+### Aurora Machine Learning
+
+* Enables you to add ML-based predictions to your applications via SQL
+* Simple, optimized, and secure integration between Aurora and AWS ML services
+* Supported services:
+  * Amazon SageMaker
+  * Amazon Comprehend
+  
