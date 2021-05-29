@@ -55,4 +55,5 @@ Start with:
   * Introduction
   * Read Replicas
   * Encryption
+  * Aurora
   
