@@ -50,3 +50,4 @@ Start with:
   * Connection Draining
   * ASG
   * Scaling Policies
+  * Termination Policy
