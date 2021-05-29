@@ -57,4 +57,6 @@ Start with:
   * Encryption
   * Aurora
   * ElastiCache
+* Route53
+  * Introduction
   

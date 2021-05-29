@@ -16,3 +16,4 @@
 * ASG = Auto Scaling Group
 * RDS = Relational Database Service
 * RTO = Recovery Time Objective
+* DNS = Domain Name System
