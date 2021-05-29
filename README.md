@@ -56,4 +56,5 @@ Start with:
   * Read Replicas
   * Encryption
   * Aurora
+  * ElastiCache
   
