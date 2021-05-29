@@ -60,4 +60,5 @@ Start with:
 * Route53
   * Introduction
   * TTL
+  * CNAME vs Alias
   
