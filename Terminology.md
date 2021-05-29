@@ -14,3 +14,4 @@
 * NLB = Network Load Balancer
 * CLB = Classic Load Balancer
 * ASG = Auto Scaling Group
+* RDS = Relational Database Service
