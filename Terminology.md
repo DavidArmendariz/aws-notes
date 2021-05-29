@@ -17,3 +17,4 @@
 * RDS = Relational Database Service
 * RTO = Recovery Time Objective
 * DNS = Domain Name System
+* TTL = Time To Live
