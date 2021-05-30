@@ -68,3 +68,4 @@ Start with:
   * Geolocation Routing Policy
   * Geoproximity Routing Policy
   * MultiValue Routing Policy
+  * Route53 as a Registrar
