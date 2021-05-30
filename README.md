@@ -65,3 +65,4 @@ Start with:
   * Weighted Routing Policy
   * Latency Routing Policy
   * Health Checks
+  * Geolocation Routing Policy
