@@ -75,3 +75,4 @@ Start with:
   * Encryption
   * Security
   * Websites
+  * CORS

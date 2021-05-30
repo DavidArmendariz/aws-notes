@@ -20,3 +20,4 @@
 * TTL = Time To Live
 * KMS = Key Management Service
 * CMK = Customer Master Key
+* CORS = Cross Origin Resource Sharing
