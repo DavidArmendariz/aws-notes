@@ -67,3 +67,4 @@ Start with:
   * Health Checks
   * Geolocation Routing Policy
   * Geoproximity Routing Policy
+  * MultiValue Routing Policy
