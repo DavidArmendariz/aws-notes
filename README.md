@@ -71,3 +71,4 @@ Start with:
   * Route53 as a Registrar
 * S3
   * Introduction
+  * Versioning
