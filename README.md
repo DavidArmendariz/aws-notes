@@ -61,4 +61,6 @@ Start with:
   * Introduction
   * TTL
   * CNAME vs Alias
+  * Simple Routing Policy
+  * Weighted Routing Policy
   
