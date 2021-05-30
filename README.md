@@ -64,4 +64,4 @@ Start with:
   * Simple Routing Policy
   * Weighted Routing Policy
   * Latency Routing Policy
-  
+  * Health Checks
