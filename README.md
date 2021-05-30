@@ -63,4 +63,5 @@ Start with:
   * CNAME vs Alias
   * Simple Routing Policy
   * Weighted Routing Policy
+  * Latency Routing Policy
   
