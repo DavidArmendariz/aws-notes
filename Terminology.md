@@ -18,3 +18,5 @@
 * RTO = Recovery Time Objective
 * DNS = Domain Name System
 * TTL = Time To Live
+* KMS = Key Management Service
+* CMK = Customer Master Key

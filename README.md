@@ -72,3 +72,4 @@ Start with:
 * S3
   * Introduction
   * Versioning
+  * Encryption
