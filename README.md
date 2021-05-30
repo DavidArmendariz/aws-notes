@@ -66,3 +66,4 @@ Start with:
   * Latency Routing Policy
   * Health Checks
   * Geolocation Routing Policy
+  * Geoproximity Routing Policy
