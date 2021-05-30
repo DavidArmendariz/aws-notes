@@ -69,3 +69,5 @@ Start with:
   * Geoproximity Routing Policy
   * MultiValue Routing Policy
   * Route53 as a Registrar
+* S3
+  * Introduction
