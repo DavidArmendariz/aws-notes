@@ -89,3 +89,4 @@ Start with:
   * Event Notifications
   * Requester Pays
   * Athena
+  * Glacier Vault Lock
