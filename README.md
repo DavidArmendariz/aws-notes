@@ -87,3 +87,4 @@ Start with:
   * Performance
   * Select and Glacier Select
   * Event Notifications
+  * Requester Pays
