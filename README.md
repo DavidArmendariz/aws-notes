@@ -80,3 +80,4 @@ Start with:
   * MFA Delete
   * Access Logs
   * Replication
+  * Pre-signed URL
