@@ -92,4 +92,6 @@ Start with:
   * Glacier Vault Lock
 * CloudFront
   * Introduction
+  * Signed URL / Signed Cookies
+  * Advanced Concepts
   
