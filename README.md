@@ -86,3 +86,4 @@ Start with:
   * Analytics
   * Performance
   * Select and Glacier Select
+  * Event Notifications
