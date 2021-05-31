@@ -85,3 +85,4 @@ Start with:
   * Lifecycle Rules
   * Analytics
   * Performance
+  * Select and Glacier Select
