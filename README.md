@@ -83,3 +83,4 @@ Start with:
   * Pre-signed URL
   * Storage Classes
   * Lifecycle Rules
+  * Analytics
