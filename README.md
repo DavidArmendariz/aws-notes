@@ -84,3 +84,4 @@ Start with:
   * Storage Classes
   * Lifecycle Rules
   * Analytics
+  * Performance
