@@ -79,3 +79,4 @@ Start with:
   * Consistency Model
   * MFA Delete
   * Access Logs
+  * Replication
