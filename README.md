@@ -81,3 +81,4 @@ Start with:
   * Access Logs
   * Replication
   * Pre-signed URL
+  * Storage Classes
