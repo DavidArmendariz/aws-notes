@@ -82,3 +82,4 @@ Start with:
   * Replication
   * Pre-signed URL
   * Storage Classes
+  * Lifecycle Rules
