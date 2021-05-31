@@ -78,3 +78,4 @@ Start with:
   * CORS
   * Consistency Model
   * MFA Delete
+  * Access Logs
