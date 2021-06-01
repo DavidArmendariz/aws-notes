@@ -107,4 +107,5 @@ Start with:
   * Dead Letter Queue
   * Request Response
   * Delay Queue
+  * FIFO Queues
   

@@ -22,3 +22,4 @@
 * CMK = Customer Master Key
 * CORS = Cross Origin Resource Sharing
 * AD = Active Directory
+* FIFO = First In First Out
