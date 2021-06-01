@@ -97,4 +97,5 @@ Start with:
   * Global Accelerator
 * Storage Extras
   * Snow Family
+  * Storage Gateway
   
