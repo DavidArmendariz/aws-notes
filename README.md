@@ -94,4 +94,5 @@ Start with:
   * Introduction
   * Signed URL / Signed Cookies
   * Advanced Concepts
+  * Global Accelerator
   
