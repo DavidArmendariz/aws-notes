@@ -106,4 +106,5 @@ Start with:
   * Message Visibility Timeout
   * Dead Letter Queue
   * Request Response
+  * Delay Queue
   
