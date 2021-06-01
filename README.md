@@ -103,4 +103,6 @@ Start with:
 * Decoupling
   * Introduction
   * SQS
+  * Message Visibility Timeout
+  * Dead Letter Queue
   
