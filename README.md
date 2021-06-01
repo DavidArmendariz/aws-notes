@@ -100,4 +100,6 @@ Start with:
   * Storage Gateway
   * Amazon FSx
   * Transfer Family
+* Decoupling
+  * Introduction
   
