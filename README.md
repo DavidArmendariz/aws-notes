@@ -95,4 +95,6 @@ Start with:
   * Signed URL / Signed Cookies
   * Advanced Concepts
   * Global Accelerator
+* Storage Extras
+  * Snow Family
   
