@@ -105,4 +105,5 @@ Start with:
   * SQS
   * Message Visibility Timeout
   * Dead Letter Queue
+  * Request Response
   
