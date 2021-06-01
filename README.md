@@ -98,5 +98,6 @@ Start with:
 * Storage Extras
   * Snow Family
   * Storage Gateway
-  * Amazon FSx for Windows
+  * Amazon FSx
+  * Transfer Family
   
