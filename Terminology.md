@@ -28,3 +28,4 @@
 * HA = High Availability
 * ECR = Elastic Container Registry
 * ECS = Elastic Container Service
+* EKS = Elastic Kubernetes Service
