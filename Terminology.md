@@ -27,3 +27,4 @@
 * KCL = Kinesis Client Library
 * HA = High Availability
 * ECR = Elastic Container Registry
+* ECS = Elastic Container Service
