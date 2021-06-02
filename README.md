@@ -111,4 +111,5 @@ Start with:
   * SNS
   * Fan Out
   * Kinesis
+  * Comparison
   
