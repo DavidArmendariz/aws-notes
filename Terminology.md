@@ -26,3 +26,4 @@
 * KPL = Kinesis Producer Library
 * KCL = Kinesis Client Library
 * HA = High Availability
+* ECR = Elastic Container Registry
