@@ -116,4 +116,4 @@ Start with:
 * Containers
   * Docker
   * ECS
-  
+  * ECS Rolling Updates
