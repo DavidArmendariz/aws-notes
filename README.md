@@ -108,4 +108,5 @@ Start with:
   * Request Response
   * Delay Queue
   * FIFO Queues
+  * SNS
   
