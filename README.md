@@ -109,4 +109,5 @@ Start with:
   * Delay Queue
   * FIFO Queues
   * SNS
+  * Fan Out
   
