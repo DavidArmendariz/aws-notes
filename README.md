@@ -110,4 +110,5 @@ Start with:
   * FIFO Queues
   * SNS
   * Fan Out
+  * Kinesis
   
