@@ -112,4 +112,5 @@ Start with:
   * Fan Out
   * Kinesis
   * Comparison
+  * Amazon MQ
   

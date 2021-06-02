@@ -25,3 +25,4 @@
 * FIFO = First In First Out
 * KPL = Kinesis Producer Library
 * KCL = Kinesis Client Library
+* HA = High Availability
