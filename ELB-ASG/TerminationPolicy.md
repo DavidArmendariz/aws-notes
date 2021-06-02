@@ -8,4 +8,4 @@
 * By default as soon as an instance is launched in an ASG it is in service
 * You have the ability to perform extra steps before the instance goes in service (Pending state)
 
-![Lifecycle](lifecycle_hooks.png)
+![Lifecycle](images/lifecycle_hooks.png)

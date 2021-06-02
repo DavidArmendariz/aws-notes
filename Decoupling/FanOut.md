@@ -6,7 +6,7 @@
 * Ability to add more SQS subscribers over time
 * Make sure your SQS queue access **policy** allows for SNS to write
 
-![fan_out](fan_out.png)
+![fan_out](images/fan_out.png)
 
 ## Application: S3 Events to multiple queues
 

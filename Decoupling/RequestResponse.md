@@ -1,3 +1,3 @@
 # Request Response Systems
 
-![request_response_system](request_response.png)
+![request_response_system](images/request_response.png)

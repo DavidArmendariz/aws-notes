@@ -1,3 +1,3 @@
 # SQS vs SNS vs Kinesis
 
-![comparison](comparison.png)
+![comparison](images/comparison.png)

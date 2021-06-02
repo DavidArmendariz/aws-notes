@@ -9,7 +9,7 @@
 
 ## Kinesis Data Streams
 
-![kinesis_data_stream](kinesis_data_stream.png)
+![kinesis_data_stream](images/kinesis_data_stream.png)
 
 * Billing is per shard provisioned
 * Retention between 1 day to 365 days
@@ -23,7 +23,7 @@
 
 ## Kinesis Data Firehose
 
-![kinesis_data_firehose](kinesis_data_firehose.png)
+![kinesis_data_firehose](images/kinesis_data_firehose.png)
 
 * Fully Managed Service, no administration, automatic scaling, serverless
 * Pay for data going through Firehose
@@ -36,7 +36,7 @@
 
 ## Kinesis Data Analytics (SQL application)
 
-![kinesis_data_analytics](kinesis_data_analytics.png)
+![kinesis_data_analytics](images/kinesis_data_analytics.png)
 
 * Perform real-time analytics on Kinesis Streams using SQL
 * Fully managed, no servers to provision
