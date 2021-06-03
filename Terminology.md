@@ -29,3 +29,6 @@
 * ECR = Elastic Container Registry
 * ECS = Elastic Container Service
 * EKS = Elastic Kubernetes Service
+* RCU = Read Capacity Units
+* WCU = Write Capacity Units
+* DAX = DynamoDB Accelerator
