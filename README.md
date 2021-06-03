@@ -121,4 +121,5 @@ Start with:
   * EKS
 * Serverless
   * Introduction
+  * Lambda
   
