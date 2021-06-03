@@ -123,4 +123,6 @@ Start with:
   * Introduction
   * Lambda
   * Lambda@Edge
+  * DynamoDB
+  * API Gateway
   
