@@ -134,4 +134,5 @@ Start with:
   * ElastiCache
   * DynamoDB
   * S3
+  * Athena
   
