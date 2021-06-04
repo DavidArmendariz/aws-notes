@@ -141,4 +141,5 @@ Start with:
   * ElasticSearch
 * Monitoring
   * CloudWatch Metrics
+  * CloudWatch Dashboards
   
