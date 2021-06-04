@@ -33,3 +33,4 @@
 * WCU = Write Capacity Units
 * DAX = DynamoDB Accelerator
 * CUP = Cognito User Pools
+* SAM = Serverless Application Model
