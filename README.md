@@ -146,4 +146,5 @@ Start with:
   * CloudWatch Alarms
   * EC2 Instance Recovery
   * CloudWatch Events
+  * CloudTrail
   
