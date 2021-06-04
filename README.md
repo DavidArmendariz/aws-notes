@@ -133,4 +133,5 @@ Start with:
   * Aurora
   * ElastiCache
   * DynamoDB
+  * S3
   
