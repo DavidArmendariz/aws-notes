@@ -125,4 +125,5 @@ Start with:
   * Lambda@Edge
   * DynamoDB
   * API Gateway
+  * Cognito
   

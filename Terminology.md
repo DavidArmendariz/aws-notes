@@ -32,3 +32,4 @@
 * RCU = Read Capacity Units
 * WCU = Write Capacity Units
 * DAX = DynamoDB Accelerator
+* CUP = Cognito User Pools
