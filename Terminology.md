@@ -34,3 +34,5 @@
 * DAX = DynamoDB Accelerator
 * CUP = Cognito User Pools
 * SAM = Serverless Application Model
+* OLTP = Online Transactional Processing
+* OALP = Online Analytical Processing
