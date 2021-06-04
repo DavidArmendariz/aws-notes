@@ -131,4 +131,5 @@ Start with:
   * Comparison
   * RDS
   * Aurora
+  * ElastiCache
   
