@@ -132,4 +132,5 @@ Start with:
   * RDS
   * Aurora
   * ElastiCache
+  * DynamoDB
   
