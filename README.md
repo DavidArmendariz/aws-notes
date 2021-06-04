@@ -142,4 +142,5 @@ Start with:
 * Monitoring
   * CloudWatch Metrics
   * CloudWatch Dashboards
+  * CloudWatch Logs
   
