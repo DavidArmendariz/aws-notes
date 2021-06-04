@@ -147,4 +147,5 @@ Start with:
   * EC2 Instance Recovery
   * CloudWatch Events
   * CloudTrail
+  * AWS Config
   
