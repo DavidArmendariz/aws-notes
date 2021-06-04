@@ -128,3 +128,6 @@ Start with:
   * Cognito
   * SAM
 * Databases
+  * Comparison
+  * RDS
+  
