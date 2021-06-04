@@ -143,4 +143,7 @@ Start with:
   * CloudWatch Metrics
   * CloudWatch Dashboards
   * CloudWatch Logs
+  * CloudWatch Alarms
+  * EC2 Instance Recovery
+  * CloudWatch Events
   
