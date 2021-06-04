@@ -36,3 +36,4 @@
 * SAM = Serverless Application Model
 * OLTP = Online Transactional Processing
 * OALP = Online Analytical Processing
+* STS = Security Token Service

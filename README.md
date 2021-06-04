@@ -148,4 +148,6 @@ Start with:
   * CloudWatch Events
   * CloudTrail
   * AWS Config
+* Security
+  * STS
   
