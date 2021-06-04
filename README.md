@@ -139,4 +139,6 @@ Start with:
   * Glue
   * Neptune
   * ElasticSearch
+* Monitoring
+  * CloudWatch Metrics
   
