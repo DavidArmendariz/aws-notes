@@ -135,4 +135,5 @@ Start with:
   * DynamoDB
   * S3
   * Athena
+  * Redshift
   
