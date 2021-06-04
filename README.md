@@ -130,4 +130,5 @@ Start with:
 * Databases
   * Comparison
   * RDS
+  * Aurora
   
