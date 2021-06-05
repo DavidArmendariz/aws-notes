@@ -158,4 +158,5 @@ Start with:
   * Resource Access Manager
   * SSO
   * Encryption Introduction
+  * KMS
   
