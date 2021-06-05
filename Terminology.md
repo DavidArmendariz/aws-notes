@@ -45,3 +45,5 @@
 * CIDR = Classless Inter-Domain Routing
 * VPC = Virtual Private Cloud
 * NAT = Network Address Translation
+* EIP = Elastic IP
+* IGW = Internet Gateway

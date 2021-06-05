@@ -174,4 +174,5 @@ Start with:
   * Subnet
   * Internet Gateways
   * NAT Instance
+  * NAT Gateway
   
