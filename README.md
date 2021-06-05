@@ -176,4 +176,6 @@ Start with:
   * NAT Instance
   * NAT Gateway
   * DNS Resolution
+  * NACL
+  * VPC Peering
   
