@@ -44,3 +44,4 @@
 * WAF = Web Application Firewall
 * CIDR = Classless Inter-Domain Routing
 * VPC = Virtual Private Cloud
+* NAT = Network Address Translation

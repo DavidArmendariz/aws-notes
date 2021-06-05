@@ -172,4 +172,5 @@ Start with:
   * Default VPC
   * VPC
   * Subnet
+  * Internet Gateways
   
