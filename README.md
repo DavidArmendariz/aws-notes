@@ -171,4 +171,5 @@ Start with:
   * CIDR
   * Default VPC
   * VPC
+  * Subnet
   
