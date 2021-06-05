@@ -151,4 +151,6 @@ Start with:
 * Security
   * STS
   * Identity Federation
+  * Directory Services
+  * Organizations
   
