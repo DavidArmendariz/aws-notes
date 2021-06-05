@@ -167,4 +167,6 @@ Start with:
   * Guard Duty
   * Amazon Inspector
   * Amazon Macie
+* VPC
+  * CIDR
   

@@ -42,3 +42,4 @@
 * RAM = Resource Access Manager
 * HSM = Hardware Security Module
 * WAF = Web Application Firewall
+* CIDR = Classless Inter-Domain Routing
