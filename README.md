@@ -159,4 +159,5 @@ Start with:
   * SSO
   * Encryption Introduction
   * KMS
+  * Key Rotation
   
