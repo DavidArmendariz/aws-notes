@@ -155,4 +155,5 @@ Start with:
   * Organizations
   * IAM Conditions
   * Policy Evaluation Logic
+  * Resource Access Manager
   

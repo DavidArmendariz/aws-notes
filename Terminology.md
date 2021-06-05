@@ -39,3 +39,4 @@
 * STS = Security Token Service
 * AD = Active Directory
 * SCP = Service Control Policy
+* RAM = Resource Access Manager
