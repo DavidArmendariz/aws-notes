@@ -175,4 +175,5 @@ Start with:
   * Internet Gateways
   * NAT Instance
   * NAT Gateway
+  * DNS Resolution
   
