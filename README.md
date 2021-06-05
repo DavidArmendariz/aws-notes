@@ -173,4 +173,5 @@ Start with:
   * VPC
   * Subnet
   * Internet Gateways
+  * NAT Instance
   
