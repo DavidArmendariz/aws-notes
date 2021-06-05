@@ -165,5 +165,6 @@ Start with:
   * CloudHSM
   * AWS Shield
   * Guard Duty
-  * Inspector
+  * Amazon Inspector
+  * Amazon Macie
   
