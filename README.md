@@ -150,4 +150,5 @@ Start with:
   * AWS Config
 * Security
   * STS
+  * Identity Federation
   
