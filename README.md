@@ -164,4 +164,5 @@ Start with:
   * Secrets Manager
   * CloudHSM
   * AWS Shield
+  * Guard Duty
   
