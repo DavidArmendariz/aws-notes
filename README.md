@@ -161,4 +161,5 @@ Start with:
   * KMS
   * Key Rotation
   * SSM Parameter Store
+  * Secrets Manager
   
