@@ -162,4 +162,5 @@ Start with:
   * Key Rotation
   * SSM Parameter Store
   * Secrets Manager
+  * CloudHSM
   

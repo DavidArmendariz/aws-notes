@@ -40,3 +40,4 @@
 * AD = Active Directory
 * SCP = Service Control Policy
 * RAM = Resource Access Manager
+* HSM = Hardware Security Module
