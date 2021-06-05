@@ -163,4 +163,5 @@ Start with:
   * SSM Parameter Store
   * Secrets Manager
   * CloudHSM
+  * AWS Shield
   
