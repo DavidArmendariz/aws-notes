@@ -169,4 +169,6 @@ Start with:
   * Amazon Macie
 * VPC
   * CIDR
+  * Default VPC
+  * VPC
   

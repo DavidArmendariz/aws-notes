@@ -43,3 +43,4 @@
 * HSM = Hardware Security Module
 * WAF = Web Application Firewall
 * CIDR = Classless Inter-Domain Routing
+* VPC = Virtual Private Cloud
