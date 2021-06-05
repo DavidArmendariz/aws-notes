@@ -2,7 +2,7 @@
 
 * **Target Tracking Scaling**
   * Most simple and easy to set-up
-  * Example: I want the average ASG CPU to stay at around 40%
+  * Example: I want the average ASG CPU to stay at around 40% (`ASGAverageCPUUtilization` metric)
 * **Simple / Step Scaling**
   * When a CloudWatch alarm is triggered (e.g. CPU > 70%), then add 2 units
   * When a CloudWatch alarm is triggered (e.g. CPU < 30%), then remove 1 unit
