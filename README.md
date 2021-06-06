@@ -186,4 +186,5 @@ Start with:
   * Egress Only Internet Gateway
   * AWS Private Link
   * AWS VPN CloudHub
+  * Transit Gateway
   

@@ -50,3 +50,4 @@
 * VPN = Virtual Private Network
 * VGW = VPN Gateway
 * DHCP = Dynamic Host Configuration Protocol
+* ECMP = Equal-cost multi-path routing
