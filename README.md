@@ -188,4 +188,5 @@ Start with:
   * AWS VPN CloudHub
   * Transit Gateway
   * Network costs
+  * IPv6 in VPC
   
