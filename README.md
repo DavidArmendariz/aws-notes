@@ -185,4 +185,5 @@ Start with:
   * Direct Connect
   * Egress Only Internet Gateway
   * AWS Private Link
+  * AWS VPN CloudHub
   
