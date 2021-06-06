@@ -52,3 +52,5 @@
 * DHCP = Dynamic Host Configuration Protocol
 * ECMP = Equal-cost multi-path routing
 * VPG = Virtual Private Gateway
+* DMS = Database Migration Service
+* SCT = Schema Conversion Tool
