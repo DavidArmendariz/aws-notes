@@ -187,4 +187,5 @@ Start with:
   * AWS Private Link
   * AWS VPN CloudHub
   * Transit Gateway
+  * Network costs
   
