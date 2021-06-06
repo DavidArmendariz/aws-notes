@@ -178,4 +178,5 @@ Start with:
   * DNS Resolution
   * NACL
   * VPC Peering
+  * VPC Endpoints
   
