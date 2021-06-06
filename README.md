@@ -180,4 +180,5 @@ Start with:
   * VPC Peering
   * VPC Endpoints
   * VPC Flow Logs
+  * Bastion
   
