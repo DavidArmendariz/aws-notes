@@ -47,3 +47,5 @@
 * NAT = Network Address Translation
 * EIP = Elastic IP
 * IGW = Internet Gateway
+* VPN = Virtual Private Network
+* VGW = VPN Gateway
