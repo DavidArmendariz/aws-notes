@@ -192,4 +192,6 @@ Start with:
 * Disaster Recovery
   * Introduction
   * DMS
+  * On-premise strategy
+  * DataSync
   
