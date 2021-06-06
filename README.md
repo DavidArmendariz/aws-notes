@@ -182,4 +182,5 @@ Start with:
   * VPC Flow Logs
   * Bastion
   * Site to Site VPN
+  * Direct Connect
   
