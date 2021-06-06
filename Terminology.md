@@ -49,3 +49,4 @@
 * IGW = Internet Gateway
 * VPN = Virtual Private Network
 * VGW = VPN Gateway
+* DHCP = Dynamic Host Configuration Protocol
