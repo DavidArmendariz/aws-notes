@@ -179,4 +179,5 @@ Start with:
   * NACL
   * VPC Peering
   * VPC Endpoints
+  * VPC Flow Logs
   
