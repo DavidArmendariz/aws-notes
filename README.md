@@ -183,4 +183,5 @@ Start with:
   * Bastion
   * Site to Site VPN
   * Direct Connect
+  * Egress Only Internet Gateway
   
