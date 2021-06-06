@@ -184,4 +184,5 @@ Start with:
   * Site to Site VPN
   * Direct Connect
   * Egress Only Internet Gateway
+  * AWS Private Link
   
