@@ -54,3 +54,5 @@
 * VPG = Virtual Private Gateway
 * DMS = Database Migration Service
 * SCT = Schema Conversion Tool
+* ENA = Elastic Network Adapter
+* EFA = Elastic Fabric Adapter
