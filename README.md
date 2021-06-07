@@ -198,4 +198,6 @@ Start with:
   * AWS Backup
 * HPC
   * Introduction
+* Other services
+  * CICD
   
