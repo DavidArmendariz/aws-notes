@@ -200,4 +200,5 @@ Start with:
   * Introduction
 * Other services
   * CICD
+  * CloudFormation
   
