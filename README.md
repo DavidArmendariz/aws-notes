@@ -206,4 +206,5 @@ Start with:
   * OpsWork
   * Elastic Transcoder
   * Workspaces
+  * AppSync
   
