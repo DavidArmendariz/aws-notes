@@ -207,4 +207,5 @@ Start with:
   * Elastic Transcoder
   * Workspaces
   * AppSync
+  * Trusted Advisor
   
