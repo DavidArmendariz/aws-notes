@@ -202,4 +202,5 @@ Start with:
   * CICD
   * CloudFormation
   * Step Function
+  * EMR
   
