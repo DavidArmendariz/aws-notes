@@ -205,4 +205,5 @@ Start with:
   * EMR
   * OpsWork
   * Elastic Transcoder
+  * Workspaces
   
