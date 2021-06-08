@@ -204,4 +204,5 @@ Start with:
   * Step Function
   * EMR
   * OpsWork
+  * Elastic Transcoder
   
