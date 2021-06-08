@@ -56,3 +56,4 @@
 * SCT = Schema Conversion Tool
 * ENA = Elastic Network Adapter
 * EFA = Elastic Fabric Adapter
+* SWF = Simple Workflow Service
