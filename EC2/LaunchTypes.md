@@ -11,8 +11,11 @@
 ## EC2 On Demand
 
 * Pay for what you use
-  * For Linux: billing per second , after the first minute
+  * For Linux: billing per second, after the first minute
   * For Windows: billing per hour
+* Has the highest cost but no upfront payment
+* No long-term commitment
+* Recommended for short-term and uninterrupted workloads, where you can't predict how the application will behave
 
 ## EC2 Reserved instances
 
@@ -47,6 +50,7 @@ Use cases:
 * Data analysis
 * Image processing
 * Any distributed workloads
+* Workloads with a flexible start and end time
 
 ## EC2 Dedicated hosts
 
@@ -62,4 +66,7 @@ Use cases:
 
 ## EC2 Dedicated instances
 
-It's similar to dedicated hosts. Instances are running on hardware that's dedicated to you, but you have no control over instance placement.
+* It's similar to dedicated hosts
+* Instances are running on hardware that's dedicated to you
+* May share hardware with other instances in same account
+* You have no control over instance placement
