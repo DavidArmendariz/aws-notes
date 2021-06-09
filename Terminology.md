@@ -58,3 +58,5 @@
 * EFA = Elastic Fabric Adapter
 * SWF = Simple Workflow Service
 * EMR = Elastic MapReduce
+* MSK = Managed Streaming of Kafka
+* CDC = Change Data Capture
