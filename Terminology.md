@@ -60,3 +60,4 @@
 * EMR = Elastic MapReduce
 * MSK = Managed Streaming of Kafka
 * CDC = Change Data Capture
+* SMB = Server Message Block
