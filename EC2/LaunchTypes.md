@@ -51,7 +51,7 @@ Use cases:
 ## EC2 Dedicated hosts
 
 An Amazon EC2 Dedicated Host is a physical server with EC2 instance capacity fully dedicated to your user. Dedicated Hosts can help you address
-**compliance requirements** and reduce costs by allowing you tou user **your existing server-bound software licenses**.
+**compliance requirements** and reduce costs by allowing you to use **your existing server-bound software licenses**.
 
 You need to commit for a 3 year period reservation.
 
