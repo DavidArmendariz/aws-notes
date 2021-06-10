@@ -36,4 +36,13 @@
   * The minimum storage duration is 30 days before you can transition objects from S3 Standard to S3 One Zone-IA or S3 Standard-IA.
 * Storage device decommissioning
   * AWS will initiate a decommissioning process when a storage device has reached the end of its useful life. This process ensures that customer data is not exposed to unauthorized individuals. This hardware device will be physically destroyed or degaussed if it fails decommissioning using the standard process followed by AWS.
-  
+* Penetration testing
+  * May be performed by the customer against their own instances with prior authorization from AWS
+* Shared EC2 instances
+  * Different instances running on the same physical machine are isolated from each other via the Xen hypervisor
+* Moving an instance from to another placement group
+  * You can change the placement group for an instance in any of the following ways:
+    * Move an existing instance to a placement group
+    * Move an instance from one placement group to another
+    * Remove an instance from a placement group
+  Before you move or remove the instance, the instance must be in the **stopped** state. You can move or remove an instance using the AWS CLI or an AWS SDK.

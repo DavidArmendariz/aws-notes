@@ -62,3 +62,4 @@
 * CDC = Change Data Capture
 * SMB = Server Message Block
 * NAS = Network Attached Storage
+* SLA = Service Level Agreement
