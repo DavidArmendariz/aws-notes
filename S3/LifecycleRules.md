@@ -1,5 +1,7 @@
 # Lifecycle rules
 
+![LifecycleRules](images/LifecycleRules.png)
+
 * You can transition objects between storage classes
 * For infrequently accessed object, move them to STANDARD_IA
 * For archive objects you don't need in real-time, GLACIER or DEEP ARCHIVE

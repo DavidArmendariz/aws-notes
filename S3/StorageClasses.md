@@ -32,7 +32,7 @@
 
 ## Intelligent Tiering
 
-* Smae low latency and high throughput performance of S3 standard
+* Same low latency and high throughput performance of S3 standard
 * Small monthly monitoring and auto-tiering fee
 * Automatically moves objects between two access tiers based on changing access patterns
 * Designed for durability of objects across multiple Availability Zones
@@ -41,7 +41,7 @@
 
 ## Glacier
 
-* Low cost object storage meant for archiving / backup
+* Low cost object storage meant for archiving/backup
 * Data is retained for the longer term
 * Alternative to on-premise magnetic tape storage
 * Each item in Glacier is called "Archive" (up to 40TB)
