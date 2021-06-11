@@ -46,3 +46,13 @@
     * Move an instance from one placement group to another
     * Remove an instance from a placement group
   Before you move or remove the instance, the instance must be in the **stopped** state. You can move or remove an instance using the AWS CLI or an AWS SDK.
+* VPC sizes:
+  * It is not possible to change the size of the VPC once it has been created
+  * This also applies for subnets within the VPC: it is not possible to modify the CIDR of a subnet
+* VPC CIDR:
+  * You cannot have CIDR Overlaps. If your subnets overlap, you will get a CIDR overlaps error.
+* Deleting VPCs:
+  * You can delete a VPC even if you have a Virtual Private Gateway. The console will delete all the setups and also delete the Virtual Private Gateway.
+  * If you have a running NAT instance, you cannot delete your VPC until you terminate it
+* IAM Limits:
+  * One AWS Account can have a maximum of 5000 IAM users
