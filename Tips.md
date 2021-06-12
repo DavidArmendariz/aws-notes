@@ -73,4 +73,6 @@
   * For instance store-backed AMIs, the root volume is stored in S3
 * AWS KMS:
   * AWS KMS supports two kinds of keys — master keys and data keys. Master keys can be used to directly encrypt and decrypt up to 4 kilobytes of data and can also be used to protect data keys. The data keys are then used to encrypt the customer data and the master keys are used to decrypt the customer data
+* Amazon S3 Success:
+  * A HTTP 200 result code and MD5 checksum, taken together, indicate that the operation was successful
   
