@@ -63,3 +63,4 @@
 * SMB = Server Message Block
 * NAS = Network Attached Storage
 * SLA = Service Level Agreement
+* SR-IOV = Single Root I/O Virtualization

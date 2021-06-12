@@ -56,3 +56,21 @@
   * If you have a running NAT instance, you cannot delete your VPC until you terminate it
 * IAM Limits:
   * One AWS Account can have a maximum of 5000 IAM users
+* Subnets:
+  * Default subnets are assigned a /20 subnet mask
+* EC2 Reserved instances:
+  * If your AMI changes the reserved instance is still valid if it's the same instance type
+  * You can shut down the reserved instance any time you want and the hourly charge won't incur for the shutdown hours
+  * It saves you significant money over on-demand instances
+* RDS RAID:
+  * Amazon recommends RAID 5 and RAID 6 for EBS
+* EBS Size:
+  * Maximum size of EBS is 1TB
+* AMI:
+  * You can share your AMI with other AWS account owners
+  * You can create an instance store-backed AMI
+  * You can create an EBS-backed AMI
+  * For instance store-backed AMIs, the root volume is stored in S3
+* AWS KMS:
+  * AWS KMS supports two kinds of keys — master keys and data keys. Master keys can be used to directly encrypt and decrypt up to 4 kilobytes of data and can also be used to protect data keys. The data keys are then used to encrypt the customer data and the master keys are used to decrypt the customer data
+  
